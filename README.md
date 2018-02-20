@@ -2,8 +2,8 @@
 Pool de objetos y factory para máquina dispensadora de helados.
 
 # Grupo de trabajo
-Juan Camilo Navarro Quiroga_
-Juan Pablo Perea_
+Juan Camilo Navarro Quiroga <br />
+Juan Pablo Perea <br />
 Nicolas Velasquez Romero
 
 # Descripción
