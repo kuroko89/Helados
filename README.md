@@ -13,4 +13,4 @@ En este programa se desarrollará la dispensadora de helados, de tal manera que 
 
 Consiste en....
 
-#
+# Diagrama de Clase 
