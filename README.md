@@ -1,5 +1,5 @@
 # Helados
-Pool de objetos y factory para máquina dispensadora de helados.
+Ejercicio de Pool de objetos para máquina dispensadora de helados.
 
 # Grupo de trabajo
 Juan Camilo Navarro Quiroga 20162021317 <br />
