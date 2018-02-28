@@ -3,7 +3,7 @@ Ejercicio de Pool de objetos para máquina dispensadora de helados.
 
 # Grupo de trabajo
 Juan Camilo Navarro Quiroga 20162021317 <br />
-Juan Pablo Perea 20162020074 
+Juan Pablo Perea 20162020074 <br />
 Nicolas Velasquez Romero 20162021301
 
 # Descripción
